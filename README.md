@@ -1,1 +1,1 @@
-# Ayub_Bettportfolio.github.io
+# This repository is an analysis of my personal projects that I have done on data science and data analysis. There are various projects from python, R, SQL, Power BI and Tableau. This is just an overview of my projects as the rest can be found on my github account.
